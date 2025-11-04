@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\sermen\IdeaProjects\course-work-java-core\src\main\java\com\example\examapp\service\QuestionService.java
 C:\Users\sermen\IdeaProjects\course-work-java-core\src\main\java\com\example\examapp\controller\JavaQuestionController.java
 C:\Users\sermen\IdeaProjects\course-work-java-core\src\main\java\com\example\examapp\controller\ExamController.java
@@ -5,3 +6,13 @@ C:\Users\sermen\IdeaProjects\course-work-java-core\src\main\java\com\example\exa
 C:\Users\sermen\IdeaProjects\course-work-java-core\src\main\java\com\example\examapp\service\ExaminerService.java
 C:\Users\sermen\IdeaProjects\course-work-java-core\src\main\java\com\example\examapp\service\JavaQuestionService.java
 C:\Users\sermen\IdeaProjects\course-work-java-core\src\main\java\com\example\examapp\entity\Question.java
+=======
+C:\Users\sermen\IdeaProjects\course-work-java-core\src\main\java\com\example\coursework\controller\JavaQuestionController.java
+C:\Users\sermen\IdeaProjects\course-work-java-core\src\main\java\com\example\coursework\CourseWorkApplication.java
+C:\Users\sermen\IdeaProjects\course-work-java-core\src\main\java\com\example\coursework\service\ExaminerServiceImpl.java
+C:\Users\sermen\IdeaProjects\course-work-java-core\src\main\java\com\example\coursework\entity\Question.java
+C:\Users\sermen\IdeaProjects\course-work-java-core\src\main\java\com\example\coursework\service\QuestionService.java
+C:\Users\sermen\IdeaProjects\course-work-java-core\src\main\java\com\example\coursework\service\JavaQuestionService.java
+C:\Users\sermen\IdeaProjects\course-work-java-core\src\main\java\com\example\coursework\service\ExaminerService.java
+C:\Users\sermen\IdeaProjects\course-work-java-core\src\main\java\com\example\coursework\controller\ExamController.java
+>>>>>>> 797edf39b6115a447fe76f72c49f080efe06a5e7
