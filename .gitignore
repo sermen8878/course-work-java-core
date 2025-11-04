@@ -1,0 +1,13 @@
+# Compiled class files 
+*.class 
+ECHO is on.
+# Maven 
+target/ 
+.mvn/ 
+mvnw 
+mvnw.cmd 
+ECHO is on.
+# IDE 
+.idea/ 
+*.iml 
+*.iws 
